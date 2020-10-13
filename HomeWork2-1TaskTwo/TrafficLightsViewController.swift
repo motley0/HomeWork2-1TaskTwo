@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TrafficLightsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
